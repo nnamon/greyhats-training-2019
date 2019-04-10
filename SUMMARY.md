@@ -2,7 +2,7 @@
 
 * [Greyhats Training 2019](README.md)
 
-## February
+## Trainings
 
-* [12 April](february/28-february.md)
+* [Session 1](trainings/session-1.md)
 
